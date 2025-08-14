@@ -1,26 +1,19 @@
 # HWID-Spoofer
 
 Python HWID Spoofer
-
 A lightweight Python tool to spoof key hardware identifiers on Windows.
 This script automates spoofing of:
 
 Motherboard / BIOS serial numbers and more (via AMIDEWINx64.exe)
-
 MAC addresses (network adapters)
-
 Hard disk VolumeID
 
 ## Features
 
 Automatic execution of AMIDEWINx64.exe commands for serial number changes
-
 Random MAC address generation & assignment
-
 VolumeID spoofing
-
 Simple Python codebase for easy customization
-
 Runs on Windows 10 / 11
 
 ## Requirements
