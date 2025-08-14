@@ -9,7 +9,7 @@ Modifie HWID Info via AMIDEWINx64.exe
 
 Mac Adrress
 
-Asus standard serials (it could help with turny bans)
+Asus standard serials (it could help with fn tournament kick)
 
 ## Features
 
