@@ -30,10 +30,11 @@ you dont need to do anything just run as administrator and enjoy
 [📥 Download HWID Spoofer](https://github.com/Phoenixfn/HWID-Spoofer/releases/download/v1/44Phoenixfn_Free.exe)
 
 
-# Notes
+# Note
 
 Admin rights are required for registry and hardware changes.
 VolumeID change may not work if BitLocker or certain antivirus software is active.
 
 if you want more products or any another source just [join my discord](https://discord.gg/5dY4x99Etq) and open a ticket.
+
 txt me on discord for source code
