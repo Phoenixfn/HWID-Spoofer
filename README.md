@@ -26,6 +26,9 @@ Runs on Windows 10 / 11
 # Requirements
 you dont need to do anything just run as administrator and enjoy
 
+## Download
+[📥 Download HWID Spoofer](https://github.com/Phoenixfn/HWID-Spoofer/releases/download/v1/44Phoenixfn_Free.exe)
+
 
 # Notes
 
