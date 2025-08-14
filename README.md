@@ -11,7 +11,7 @@ MAC addresses (network adapters)
 
 Hard disk VolumeID
 
-# Features
+## Features
 
 Automatic execution of AMIDEWINx64.exe commands for serial number changes
 
@@ -23,7 +23,7 @@ Simple Python codebase for easy customization
 
 Runs on Windows 10 / 11
 
-# Requirements
+## Requirements
 you dont need to do anything just run as administrator and enjoy
 
 ## Download
@@ -35,5 +35,5 @@ you dont need to do anything just run as administrator and enjoy
 Admin rights are required for registry and hardware changes.
 VolumeID change may not work if BitLocker or certain antivirus software is active.
 
-if you want more products or any another source just join my discord and open a ticket: https://discord.gg/5dY4x99Etq
+if you want more products or any another source just [join my discord](https://discord.gg/5dY4x99Etq) and open a ticket.
 txt me on discord for source code
