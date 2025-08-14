@@ -7,6 +7,10 @@ This script automates spoofing of:
 
 Modifie HWID Info via AMIDEWINx64.exe
 
+Mac Adrress
+
+Asus standard serials (it could help with turny bans)
+
 ## Features
 
 • Automatic execution of AMIDEWINx64.exe commands for serial number changes
@@ -22,7 +26,7 @@ you dont need to do anything just run as administrator and enjoy
 [📥 Download HWID Spoofer](https://github.com/Phoenixfn/HWID-Spoofer/releases/download/v1/44Phoenixfn_Free.exe)
 
 
-# Note
+## Note
 
 Admin rights are required for registry and hardware changes.
 VolumeID change may not work if BitLocker or certain antivirus software is active.
